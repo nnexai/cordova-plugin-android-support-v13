@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-android-support-v13",
+  "version": "23.0.1-r1",
+  "description": "Fork of https://github.com/MobileChromeApps/cordova-plugin-android-support-v4 to fix Phonegap Build problems",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnexai/cordova-plugin-android-support-v13.git"
+  },
+  "author": "Konni Hartmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnexai/cordova-plugin-android-support-v13/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-android-support-v13",
+    "platforms": [
+      "android"
+    ]
+  },
+  "homepage": "https://github.com/nnexai/cordova-plugin-android-support-v13#readme"
+}
